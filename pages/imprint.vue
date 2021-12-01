@@ -36,9 +36,7 @@
             </a>
           </p>
           <h4>VAT ID</h4>
-          <p>
-            DE 123 456 789
-          </p>
+          <p>DE 123 456 789</p>
         </div>
         <Credits class="col-12" />
         <div class="col-12">

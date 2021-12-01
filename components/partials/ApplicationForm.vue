@@ -110,9 +110,7 @@
       />
     </label>
     <div v-if="!$v.form.subject.mustBeEmpty && form.showErrors" class="col-12">
-      <div class="error">
-        Please leave this field empty.
-      </div>
+      <div class="error">Please leave this field empty.</div>
     </div>
 
     <label class="col-12 col-l-11">

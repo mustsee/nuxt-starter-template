@@ -44,7 +44,7 @@ aside {
 </style>
 
 <script lang="ts">
-import { CountUp } from 'countUp.js'
+import { CountUp } from 'countup.js'
 import Vue from 'vue'
 
 export default Vue.extend({

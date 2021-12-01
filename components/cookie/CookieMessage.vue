@@ -39,9 +39,7 @@
         >
           {{ $store.state.cookies.collapsed ? 'Options' : 'Close' }}
         </button>
-        <button class="button" data-icon-right="f" @click="close">
-          Allow
-        </button>
+        <button class="button" data-icon-right="f" @click="close">Allow</button>
       </div>
     </div>
   </aside>

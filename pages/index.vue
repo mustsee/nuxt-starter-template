@@ -50,9 +50,7 @@
           sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
           rebum.
         </p>
-        <p>
-          We operate between you hometown and you neighbour town.
-        </p>
+        <p>We operate between you hometown and you neighbour town.</p>
       </section>
 
       <section

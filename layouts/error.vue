@@ -7,7 +7,7 @@
         autoplay
         loop
         muted
-        style="width: 100%;"
+        style="width: 100%"
         title="advertisment video of your company"
       >
         <source src="/video/forest.m4v" type="video/mp4" />
